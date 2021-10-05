@@ -1,0 +1,63 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<title> Art 277 second assignment</title> 
+<meta charset="utf-8">
+</head>
+<body>
+HTML Class<br>
+<address> 
+Starz College of Science and Technology<br> Cheeseman Avenue, Airfield, Sinkor Monrovia-Liberia
+<hr></address>
+<!-- the address element put the text in italic-->
+<h1> What is Lorem Ipsum?</h1> 
+<p>
+<strong> Lorem Ipsum</strong> is simply is simply dummy text of the printing and typesetting industry. 
+<u>Loren Ipsum</u><br>
+has been the industry's standard dummy text eversince the 1500s, when an unknown printer <br> took 
+a gallery of type and scrambled 
+it to make a type specimen book. It has survived not <br> only five centuries , but also the leap into 
+electronic typesetting, remaining essentially<br>
+unchanged. It was popularised in the 1960s with the releaase of Letraset sheets containing <br> Lorem 
+Ipsum passages, and more recently with desktop 
+publishing
+software like <em><strong><u> aldus <br> page maker </u></strong></em> including versions of Lorem 
+Ipsum. 1914 translation by H. Rackham <br>
+<!--this is where i indent a the paragraph--> 
+<blockquote> Lorem Ipsum dolor sit amet, consecteur adipiscing elit, sed do esiusmod tempor <br> 
+incididunt ut labore et dolore magna alique. Ut enim ad minim 
+veniam, quis nostrud <br> exercitation ullamco laboris nisi ut aliquip ex ea comodo consequat. Duis aute 
+<br> irure dolor in reprehenderit voluptate velit esse 
+cilum dolore eu gugiat nulla <br> pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa 
+qui offica <br> deserunt mollit anim 
+id est laborum. <br> </blockquote> 
+</p>
+<p> 
+<h1> Why do we use it?</h1> <!-- i used header one instead of header to so that both header can be the 
+same size --> <br>
+It is a long established fact that a reader will be distracted by the readable content of a page<br> when 
+looking at its layout. The point of
+ using <u> Loren Ipsum </u> is that it has a more-or-less <br> normal distribution of Letters, as opposed 
+to using <q>Content here, content here</q>, making it <br> 
+look like readable English. Many desktop publishing packages and web page editors now <br> use Lorem 
+Ipsum as their default model text, 
+and a search for <q> Lorem Ipsum</q> will undercover <br> many web psites still in their infancy. 
+Various versions have evolved over the years, <br> some times
+by accident, sometimes on purpose (injected humour and the like).
+</p>
+<p>
+<h1> Where can I get some?</h1> <!-- this is the third header-->
+<b>There are many variations of passages of Lorem Ipsum available, but the majority <br> have suffered 
+alteration in some form, by 
+injected humour, <u>radomized words</u><br> which don't look even slightly believable.</b> If you are 
+going to use a passage of Lorem <br> Ipsum
+you need to be sure there isn't anything embarrassing hidden in the midle of the text. <br> <em> All the 
+Lorem Ipsum generators on the Internet tend to repeat 
+predefined chunks as <br> necessary, making this the first true generator on the Internet.</em> It uses 
+a dictionary of over <br> 200 Latin words, which combined with 
+a handful of model sentence structures, to generate Loren <br> Ipsum which looks reasonable. The 
+generator Lorem Ipsum is therefore always free from <br> repetition,
+injustice humour, or non-characteristic words etc. 
+</p>
+</body> 
+</html>
